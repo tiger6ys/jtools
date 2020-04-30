@@ -1,0 +1,1 @@
+java -jar D:\FlashDevelop4\Tools\flexsdk\lib\adt.jar -package -storetype pkcs12 -keystore E:\cer\aircs5.p12 -storepass tg888 JTools.air JTools-app.xml JTools.swf asset icon jar

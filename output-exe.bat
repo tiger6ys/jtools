@@ -1,0 +1,1 @@
+java -jar D:\FlashDevelop4\Tools\flexsdk\lib\adt.jar -package -target native JTools.exe JTools.air
